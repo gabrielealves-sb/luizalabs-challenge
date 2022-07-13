@@ -23,6 +23,11 @@ API REST para gerenciar Clientes, Produtos, Reviews e Lista de Desejos.
 
 ***
 ## Instalação
+Faça o clone do repositório
+```
+git clone https://github.com/gabrielebonfim/luizalabs-challenge.git
+```
+
 Execute o comando abaixo
 ```
 docker compose up
